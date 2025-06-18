@@ -4,15 +4,18 @@ This repository contains content that will help you kick-start your Solana devel
 
 ## Table of Contents
 
+- [How Solana Works](#how-solana-works)
 - [Websites](#websites)
-- [Gamified Tutorials](#gamified-tutorials)
-- [Youtube Channels](#youtube-channels)
-- [Free Online Courses](#free-online-courses)
-- [Github Repositories](#github-repositories)
 - [Tutorial Docs](#tutorial-docs)
+- [Youtube Channels](#youtube-channels)
+- [Free Online Course Programs](#free-online-courses)
+- [Github Repositories](#github-repositories)
 - [Development Tools](#development-tools)
 - [Node Providers](#node-providers)
-- [Project Starter](#project-starter)
-- [Articles](#articles)
+- [Grants/Hackathons](grants-hackathons)
+- [Landing Jobs](#landing-jobs)
+- [Useful Documentation](#useful-documentation)
+- [Get Cracking](#get-cracking)
+- [Communities/DAOs](#communities-DAOs)
 - [Recommended Books](#recommended-books)
 
