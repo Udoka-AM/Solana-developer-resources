@@ -31,3 +31,6 @@ Also, you're welcome to contribute to the repo if you find an opportunity useful
 - [Communities/DAOs](#communities-DAOs)
 - [Recommended Books](#recommended-books)
 
+
+# How Solana Works
+
