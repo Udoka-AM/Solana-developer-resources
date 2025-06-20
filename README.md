@@ -33,6 +33,5 @@ Also, you're welcome to contribute to the repo if you find an opportunity that i
 
 
 # How Solana Works
-Solana Archetecture Brakdown by Ichigo 
-https://www.helius.dev/blog/solana-executive-overview
+[Solana Archetecture Brakdown by Ichigo](https://www.helius.dev/blog/solana-executive-overview)
 
