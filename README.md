@@ -40,9 +40,9 @@ Found a great resource that's missing? Please contribute by:
 
 1. Forking this repository
 2. Adding your resource in the appropriate section
-3. Following the existing format: **[Title](link)** - Brief description
+3. Following the existing format: Title - Brief description
 4. Submitting a pull request
 
-## Star History
+## Share some love ⭐
 
 If you find this repository helpful, please consider giving it a star ⭐
