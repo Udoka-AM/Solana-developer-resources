@@ -10,11 +10,7 @@ Also, you're welcome to contribute to the repo if you find an opportunity that i
 
 ---
 
-
-
-
-
-## Table of Contents
+# Table of Contents
 
 - [How Solana Works](#how-solana-works)
 - [Websites](#websites)
@@ -38,3 +34,15 @@ Also, you're welcome to contribute to the repo if you find an opportunity that i
 
 
 
+## Contributing
+
+Found a great resource that's missing? Please contribute by:
+
+1. Forking this repository
+2. Adding your resource in the appropriate section
+3. Following the existing format: **[Title](link)** - Brief description
+4. Submitting a pull request
+
+## Star History
+
+If you find this repository helpful, please consider giving it a star ⭐
