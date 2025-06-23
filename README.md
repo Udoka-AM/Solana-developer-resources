@@ -26,6 +26,7 @@ Also, you're welcome to contribute to the repo if you find an opportunity that i
 - [Node Providers](#node-providers)
 - [Grants/Hackathons](grants-hackathons)
 - [Landing Jobs](#landing-jobs)
+- [Security on Solana](#solana-security)
 - [Useful Documentation](#useful-documentation)
 - [Get Cracking](#get-cracking)
 - [Communities/DAOs](#communities-DAOs)
@@ -33,5 +34,7 @@ Also, you're welcome to contribute to the repo if you find an opportunity that i
 
 
 # How Solana Works
-[Solana Archetecture Brakdown by Ichigo](https://www.helius.dev/blog/solana-executive-overview)
+[Solana Architecture Breakdown by Ichigo](https://www.helius.dev/blog/solana-executive-overview)
+
+
 
