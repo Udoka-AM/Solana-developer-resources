@@ -40,7 +40,22 @@ Understanding the fundamentals of Solana's architecture and consensus mechanism.
 - **[Solana Validator Economics](https://docs.solana.com/economics_overview)** - How staking and rewards work on Solana
 
 
+# Tutorial Documentation
 
+Step-by-step guides and tutorials for building on Solana.
+
+- **[Solana Cookbook](https://solanacookbook.com/)** - Comprehensive collection of code examples and recipes
+- **[Anchor Tutorial](https://www.anchor-lang.com/docs/intro)** - Official Anchor framework documentation and tutorials
+- **[Solana Program Library Guide](https://spl.solana.com/)** - Tutorials for using Solana's standard program library
+- **[Hello World on Solana](https://github.com/solana-labs/example-helloworld)** - Official beginner tutorial for your first Solana program
+- **[Solana Web3.js Tutorial](https://solanacookbook.com/guides/get-program-accounts.html)** - Client-side development with Solana's JavaScript library
+- [Solana Hello World](https://docs.solana.com/developing/helloworld)
+- [Solana Labs Tutorials](https://docs.solana.com/developing)
+- [Solana Core Concepts by Buildspace](https://buildspace.so/solana)
+- [Solana Stack Exchange](https://solana.stackexchange.com/) - Solana stackoverflow
+- **[QuickNode Solana Guides & Tutorials](https://www.quicknode.com/guides/solana)** - Step-by-step tutorials on various Solana development topics.
+- [Solana Developer Docs](https://docs.solana.com/)
+  
 ## Contributing
 
 Found a great resource that's missing? Please contribute by:
