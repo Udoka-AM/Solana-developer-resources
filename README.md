@@ -30,7 +30,14 @@ Also, you're welcome to contribute to the repo if you find an opportunity that i
 
 
 # How Solana Works
-[Solana Architecture Breakdown by Ichigo](https://www.helius.dev/blog/solana-executive-overview)
+Understanding the fundamentals of Solana's architecture and consensus mechanism.
+
+- **[Solana Architecture Breakdown by Ichigo](https://www.helius.dev/blog/solana-executive-overview)** - A detailed overview of the Solana protocol
+- **[Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)** - The original technical paper explaining Proof of History and Solana's architecture
+- **[Solana Architecture Overview](https://docs.solana.com/cluster/overview)** - Official documentation on how Solana clusters work
+- **[Understanding Proof of History](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)** - Deep dive into Solana's innovative consensus mechanism
+- **[Solana's 8 Core Innovations](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)** - Key technical innovations that enable Solana's performance
+- **[Solana Validator Economics](https://docs.solana.com/economics_overview)** - How staking and rewards work on Solana
 
 
 
