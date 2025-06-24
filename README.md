@@ -29,7 +29,7 @@ Also, you're welcome to contribute to the repo if you find an opportunity that i
 - [Recommended Books](#recommended-books)
 
 
-# How Solana Works
+## How Solana Works
 Understanding the fundamentals of Solana's architecture and consensus mechanism.
 
 - **[Solana Architecture Breakdown by Ichigo](https://www.helius.dev/blog/solana-executive-overview)** - A detailed overview of the Solana protocol
@@ -40,7 +40,7 @@ Understanding the fundamentals of Solana's architecture and consensus mechanism.
 - **[Solana Validator Economics](https://docs.solana.com/economics_overview)** - How staking and rewards work on Solana
 
 
-# Tutorial Documentation
+## Tutorial Documentation
 
 Step-by-step guides and tutorials for building on Solana.
 
@@ -55,6 +55,21 @@ Step-by-step guides and tutorials for building on Solana.
 - [Solana Stack Exchange](https://solana.stackexchange.com/) - Solana stackoverflow
 - **[QuickNode Solana Guides & Tutorials](https://www.quicknode.com/guides/solana)** - Step-by-step tutorials on various Solana development topics.
 - [Solana Developer Docs](https://docs.solana.com/)
+- 
+
+## Free Online Course Programs
+
+Structured learning programs for Solana development.
+
+- **[Solana Foundation Developer Program](https://solana.com/developers)** - Everything solana development from solana foundation engineers
+- **[Solana Foundation Developer Bootcamp](https://www.youtube.com/watch?v=amAq-WHAFs8&list=PLilwLeBwGuK7HN8ZnXpGAD9q6i4syhnVc)** - Full self paced solana developer bootcamp
+- **[Turbin3, The Solana Talent Engine](https://turbin3.org/)** - Quarterly detailed program for core solana development
+- **[Ackee Blockchain](https://ackee.xyz/school-of-solana)** - Ackee Blockchain School of Solana
+- **[Solana Core Developer Program](https://www.soldev.app/course)** - Comprehensive free course covering Solana fundamentals to advanced topics
+- **[Buildspace Solana Course](https://buildspace.so/builds/solana-web3-app)** - Project-based learning for building full-stack Solana applications
+- **[Questbook Solana Course](https://openquest.xyz/tracks/build-on-solana)** - Interactive learning path with hands-on exercises
+- **[Solana Summer Camp](https://www.soldev.app/library)** - Seasonal intensive programs for aspiring Solana developers
+- **[Alchemy University Solana Track](https://university.alchemy.com/)** - University-style curriculum for blockchain development including Solana
   
 ## Contributing
 
