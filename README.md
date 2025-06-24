@@ -55,7 +55,7 @@ Step-by-step guides and tutorials for building on Solana.
 - [Solana Stack Exchange](https://solana.stackexchange.com/) - Solana stackoverflow
 - **[QuickNode Solana Guides & Tutorials](https://www.quicknode.com/guides/solana)** - Step-by-step tutorials on various Solana development topics.
 - [Solana Developer Docs](https://docs.solana.com/)
-- 
+- **[Solana core docs](https://docs.anza.xyz/)** - Core Validator docs
 
 ## Free Online Course Programs
 
