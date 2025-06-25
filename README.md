@@ -97,6 +97,16 @@ RPC node providers are used to connect to the Solana network.
 - **[GenesysGo](https://genesysgo.com/)** - Solana RPC provider with global infrastructure
   
 
+## Youtube Channels
+
+Top YouTube channels for Solana development content.
+
+- **[Solana Foundation](https://www.youtube.com/c/SolanaLabs)** - Official channel with talks, tutorials, and ecosystem updates
+- **[Solana Bytes](https://www.youtube.com/playlist?list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm)** - Short-form technical content from Solana Labs
+- **[Ackee Blochain](https://www.youtube.com/@ackeeblockchain)** - School of solana playlists from Ackee Blockchain Security
+- **[Brimigs](https://www.youtube.com/@brimigs)** - Bri is building on Solana and chatting about Rust 
+- **[Helius](https://www.youtube.com/@helius_labs)** - On a mission to accelerate crypto-powered software for builders
+- **[Quicknode](https://www.youtube.com/watch?v=B5eBWWQfQuM&list=PLT2H_0otcvBSTJKr6DHqyTzrqtgWHcOTH)** -Learn how to build on solana with Mike Macana
 
 ## Contributing
 
