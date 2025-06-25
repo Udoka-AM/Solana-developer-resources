@@ -70,7 +70,34 @@ Structured learning programs for Solana development.
 - **[Questbook Solana Course](https://openquest.xyz/tracks/build-on-solana)** - Interactive learning path with hands-on exercises
 - **[Solana Summer Camp](https://www.soldev.app/library)** - Seasonal intensive programs for aspiring Solana developers
 - **[Alchemy University Solana Track](https://university.alchemy.com/)** - University-style curriculum for blockchain development including Solana
+
+
+## Development Tools
+
+Tools and frameworks for building on Solana.
+
+- **[Anchor Framework](https://www.anchor-lang.com/)** - Rust framework for building Solana programs
+- **[Solana CLI](https://docs.solana.com/cli)** - Command-line interface for interacting with Solana
+- **[Solana Web3.js](https://solana-labs.github.io/solana-web3.js/)** - JavaScript SDK for Solana
+- **[Metaplex SDK](https://github.com/metaplex-foundation/js)** - Tools for building NFT applications on Solana
+- **[Helius](https://helius.dev/)** -Provides a comprehensive suite of developer tools, RPCs, APIs, and SDKs.
+- **[Solana Playground](https://beta.solpg.io/)** - Browser-based IDE for Solana development
+- **[Solana Wallet Adapter](https://github.com/solana-labs/wallet-adapter)** - A collection of components and hooks connecting various Solana wallets to your dApp.
+- **[MagicBlock](https://docs.magicblock.gg/pages/get-started/introduction/why-magicblock?utm_source=website-footer&utm_content=Docs)** - The high-performance engine for real-time applications on Solana
+
+
+## Node Providers
+
+RPC node providers are used to connect to the Solana network.
+
+- **[Helius](https://helius.xyz/)** - Developer-focused Solana RPC with additional tooling
+- **[QuickNode](https://www.quicknode.com/chains/sol)** - High-performance Solana RPC endpoints
+- **[Solana Public RPC](https://docs.solana.com/cluster/rpc-endpoints)** - Official public RPC endpoints (rate limited)
+- **[Alchemy](https://www.alchemy.com/solana)** - Enterprise-grade Solana RPC with enhanced APIs
+- **[GenesysGo](https://genesysgo.com/)** - Solana RPC provider with global infrastructure
   
+
+
 ## Contributing
 
 Found a great resource that's missing? Please contribute by:
