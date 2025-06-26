@@ -111,7 +111,7 @@ Tools and frameworks for building on Solana.
 | **[Solana Web3.js](https://solana-labs.github.io/solana-web3.js/)** | JavaScript SDK for building client-side applications |
 | **[Solana Playground](https://beta.solpg.io/)** | Browser-based IDE for writing and testing Solana programs |
 
-### IDEs and Development Environments
+| ### IDEs and Development Environments|
 
 | Tool | Description |
 |------|-------------|
