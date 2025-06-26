@@ -13,7 +13,6 @@ Also, you're welcome to contribute to the repo if you find an opportunity that i
 # Table of Contents
 
 - [How Solana Works](#how-solana-works)
-- [Websites](#websites)
 - [Tutorial Docs](#tutorial-docs)
 - [Youtube Channels](#youtube-channels)
 - [Free Online Course Programs](#free-online-courses)
@@ -107,6 +106,22 @@ Top YouTube channels for Solana development content.
 - **[Brimigs](https://www.youtube.com/@brimigs)** - Bri is building on Solana and chatting about Rust 
 - **[Helius](https://www.youtube.com/@helius_labs)** - On a mission to accelerate crypto-powered software for builders
 - **[Quicknode](https://www.youtube.com/watch?v=B5eBWWQfQuM&list=PLT2H_0otcvBSTJKr6DHqyTzrqtgWHcOTH)** -Learn how to build on solana with Mike Macana
+
+## Github Repositories
+
+Essential GitHub repositories for Solana development.
+
+- **[solana-labs/solana](https://github.com/solana-labs/solana)** - Main Solana blockchain implementation
+- **[coral-xyz/anchor](https://github.com/coral-xyz/anchor)** - Anchor framework for Solana smart contracts
+- **[solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)** - Collection of standard Solana programs
+- **[solana-developers/program-examples](https://github.com/solana-developers/program-examples)** - Collection of example programs and dApps
+- **[Andrea](https://github.com/ASCorreia)** - one of the most cracked guy building on solana
+- **[Turbin3 Developer Program](https://github.com/solana-turbin3)** - public repo for turbin3 cohorts
+- **[Quicknode Solana Tutorials](http://github.com/quiknode-labs?q=solana&type=all&language=&sort=)** - quicknode solana integration repos
+- **[Ackee Blockchain School of Solana](https://github.com/ackee-blockchain)** -Hands-on everything on Solana and Solana security
+- **[MagicBlock](https://github.com/magicblock-labs)** - MagicBlock ephemeral rollup integration and SDK examples
+
+  
 
 ## Contributing
 
