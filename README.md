@@ -101,46 +101,17 @@ Essential GitHub repositories for Solana development.
 
 Tools and frameworks for building on Solana.
 
-### Core Development Tools
 
-| Tool | Description |
-|------|-------------|
-|  | Command-line interface for interacting with Solana networks |
-|  | Rust framework for building Solana programs with IDL generation |
-| Solana Program Library (SPL) | Collection of on-chain programs for common use cases |
-|  | JavaScript SDK for building client-side applications |
-|  | Browser-based IDE for writing and testing Solana programs |
 
-| ### IDEs and Development Environments|
 
-| Tool | Description |
-|------|-------------|
-| Solana Studio | Web-based development environment |
-| Seahorse | Python framework for writing Solana programs |
-| Neon Labs | Ethereum Virtual Machine on Solana for Solidity developers |
 
-### Testing and Debugging
-
-| Tool | Description |
-|------|-------------|
-| Solana Test Validator | Local blockchain for testing |
-| Solana Explorer | Blockchain explorer for transaction and account inspection |
-| Metaplex CLI | Tools for NFT and digital asset development |
-
-### Wallet Integration
-
-| Tool | Description |
-|------|-------------|
-| Phantom Wallet SDK | SDK for integrating with Phantom wallet |
-| Solflare Wallet SDK | SDK for integrating with Solflare wallet |
-| **[Solana Wallet Adapter](https://github.com/solana-labs/wallet-adapter)** | Standardized wallet connection library |
 
 ### Infrastructure and APIs
 
 | Tool | Description |
 |------|-------------|
-| RPC Providers | Services like Alchemy, QuickNode, **[Helius](https://helius.dev/)** for blockchain data access |
-| **[Metaplex SDK](https://github.com/metaplex-foundation/js)** | NFT and digital asset infrastructure |
+| RPC Providers | Services like Alchemy, QuickNode,  for blockchain data access |
+|  | NFT and digital asset infrastructure |
 | Serum DEX | Decentralized exchange protocol |
 | Jupiter Aggregator | Swap aggregation protocol |
 | **[MagicBlock](https://docs.magicblock.gg/pages/get-started/introduction/why-magicblock?utm_source=website-footer&utm_content=Docs)** | The high-performance engine for real-time applications on Solana |
@@ -173,12 +144,13 @@ Tools and frameworks for building on Solana.
 | **Wallet Integration** ||
 | Phantom Wallet SDK | SDK for integrating with Phantom wallet |
 | Solflare Wallet SDK | SDK for integrating with Solflare wallet |
-| Wallet Adapter | Standardized wallet connection library |
+| **[Solana Wallet Adapter](https://github.com/solana-labs/wallet-adapter)** | Standardized wallet connection library |
 | **Infrastructure & APIs** ||
-| RPC Providers | Services like Alchemy, QuickNode, Helius for blockchain data access |
-| Metaplex Protocol | NFT and digital asset infrastructure |
+| RPC Providers | Services like **[Alchemy](https://www.alchemy.com/solana)**, [QuickNode](https://www.quicknode.com/), [Helius](https://helius.dev/) for blockchain data access |
+| **[Metaplex SDK](https://github.com/metaplex-foundation/js)** | NFT and digital asset infrastructure |
 | Serum DEX | Decentralized exchange protocol |
 | Jupiter Aggregator | Swap aggregation protocol |
+| **[MagicBlock](https://docs.magicblock.gg/pages/get-started/introduction/why-magicblock?utm_source=website-footer&utm_content=Docs)** |The high-performance engine for real-time applications on Solana |
 | **Deployment & Monitoring** ||
 | Solana Beach | Network statistics and validator information |
 | Solscan | Block explorer and analytics |
