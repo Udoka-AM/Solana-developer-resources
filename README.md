@@ -5,7 +5,7 @@ A curated list of free, high-quality, on-demand resources for developers looking
 Whether you're just getting started or looking to deepen your expertise, you'll find helpful tutorials, documentation, dev tools, funding opportunities, job boards, and more. The goal is not to overwhelm but to give you a practical, well-organised starting point for getting cracking with Solana development.
 
 This is not an exhaustive index of everything in the ecosystem—rather, it's a focused and evolving guide for anyone serious about building on Solana.
-Also, you're welcome to contribute to the repo if you find an opportunity that is useful to the community.
+You're also welcome to contribute to the repo if you find a useful opportunity for the community.
 
 
 ---
@@ -19,10 +19,9 @@ Also, you're welcome to contribute to the repo if you find an opportunity that i
 - [Github Repositories](#github-repositories)
 - [Development Tools](#development-tools)
 - [Node Providers](#node-providers)
+- [Security on Solana](#solana-security)
 - [Grants/Hackathons](grants-hackathons)
 - [Landing Jobs](#landing-jobs)
-- [Security on Solana](#solana-security)
-- [Useful Documentation](#useful-documentation)
 - [Get Cracking](#get-cracking)
 - [Communities/DAOs](#communities-DAOs)
 - [Recommended Books](#recommended-books)
@@ -37,7 +36,6 @@ Understanding the fundamentals of Solana's architecture and consensus mechanism.
 - **[Understanding Proof of History](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)** - Deep dive into Solana's innovative consensus mechanism
 - **[Solana's 8 Core Innovations](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)** - Key technical innovations that enable Solana's performance
 - **[Solana Validator Economics](https://docs.solana.com/economics_overview)** - How staking and rewards work on Solana
-
 
 ## Tutorial Documentation
 
@@ -55,6 +53,19 @@ Step-by-step guides and tutorials for building on Solana.
 - **[QuickNode Solana Guides & Tutorials](https://www.quicknode.com/guides/solana)** - Step-by-step tutorials on various Solana development topics.
 - **[Solana Developer Docs](https://docs.solana.com/)** - Main solana developer documentation
 - **[Solana core docs](https://docs.anza.xyz/)** - Core Validator-Client documentation
+- **[Helius Blog](https://www.helius.dev/blog/)** - Everything you need to build on solana
+
+
+## Youtube Channels
+
+Top YouTube channels for Solana development content.
+
+- **[Solana Foundation](https://www.youtube.com/c/SolanaLabs)** - Official channel with talks, tutorials, and ecosystem updates
+- **[Solana Bytes](https://www.youtube.com/playlist?list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm)** - Short-form technical content from Solana Labs
+- **[Ackee Blochain](https://www.youtube.com/@ackeeblockchain)** - School of solana playlists from Ackee Blockchain Security
+- **[Brimigs](https://www.youtube.com/@brimigs)** - Bri is building on Solana and chatting about Rust 
+- **[Helius](https://www.youtube.com/@helius_labs)** - On a mission to accelerate crypto-powered software for builders
+- **[Quicknode](https://www.youtube.com/watch?v=B5eBWWQfQuM&list=PLT2H_0otcvBSTJKr6DHqyTzrqtgWHcOTH)** -Learn how to build on solana with Mike Macana
 
 ## Free Online Course Programs
 
@@ -69,6 +80,21 @@ Structured learning programs for Solana development.
 - **[Questbook Solana Course](https://openquest.xyz/tracks/build-on-solana)** - Interactive learning path with hands-on exercises
 - **[Solana Summer Camp](https://www.soldev.app/library)** - Seasonal intensive programs for aspiring Solana developers
 - **[Alchemy University Solana Track](https://university.alchemy.com/)** - University-style curriculum for blockchain development including Solana
+
+
+## Github Repositories
+
+Essential GitHub repositories for Solana development.
+
+- **[solana-labs/solana](https://github.com/solana-labs/solana)** - Main Solana blockchain implementation
+- **[coral-xyz/anchor](https://github.com/coral-xyz/anchor)** - Anchor framework for Solana smart contracts
+- **[solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)** - Collection of standard Solana programs
+- **[solana-developers/program-examples](https://github.com/solana-developers/program-examples)** - Collection of example programs and dApps
+- **[Andrea](https://github.com/ASCorreia)** - one of the most cracked guy building on solana
+- **[Turbin3 Developer Program](https://github.com/solana-turbin3)** - public repo for turbin3 cohorts
+- **[Quicknode Solana Tutorials](http://github.com/quiknode-labs?q=solana&type=all&language=&sort=)** - quicknode solana integration repos
+- **[Ackee Blockchain School of Solana](https://github.com/ackee-blockchain)** -Hands-on everything on Solana and Solana security
+- **[MagicBlock](https://github.com/magicblock-labs)** - MagicBlock ephemeral rollup integration and SDK examples
 
 
 ## Development Tools
@@ -96,30 +122,11 @@ RPC node providers are used to connect to the Solana network.
 - **[GenesysGo](https://genesysgo.com/)** - Solana RPC provider with global infrastructure
   
 
-## Youtube Channels
+## Security on Solana
+## Hackathons/Grants
+## Communities/DAOs
+## Recommended Books
 
-Top YouTube channels for Solana development content.
-
-- **[Solana Foundation](https://www.youtube.com/c/SolanaLabs)** - Official channel with talks, tutorials, and ecosystem updates
-- **[Solana Bytes](https://www.youtube.com/playlist?list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm)** - Short-form technical content from Solana Labs
-- **[Ackee Blochain](https://www.youtube.com/@ackeeblockchain)** - School of solana playlists from Ackee Blockchain Security
-- **[Brimigs](https://www.youtube.com/@brimigs)** - Bri is building on Solana and chatting about Rust 
-- **[Helius](https://www.youtube.com/@helius_labs)** - On a mission to accelerate crypto-powered software for builders
-- **[Quicknode](https://www.youtube.com/watch?v=B5eBWWQfQuM&list=PLT2H_0otcvBSTJKr6DHqyTzrqtgWHcOTH)** -Learn how to build on solana with Mike Macana
-
-## Github Repositories
-
-Essential GitHub repositories for Solana development.
-
-- **[solana-labs/solana](https://github.com/solana-labs/solana)** - Main Solana blockchain implementation
-- **[coral-xyz/anchor](https://github.com/coral-xyz/anchor)** - Anchor framework for Solana smart contracts
-- **[solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)** - Collection of standard Solana programs
-- **[solana-developers/program-examples](https://github.com/solana-developers/program-examples)** - Collection of example programs and dApps
-- **[Andrea](https://github.com/ASCorreia)** - one of the most cracked guy building on solana
-- **[Turbin3 Developer Program](https://github.com/solana-turbin3)** - public repo for turbin3 cohorts
-- **[Quicknode Solana Tutorials](http://github.com/quiknode-labs?q=solana&type=all&language=&sort=)** - quicknode solana integration repos
-- **[Ackee Blockchain School of Solana](https://github.com/ackee-blockchain)** -Hands-on everything on Solana and Solana security
-- **[MagicBlock](https://github.com/magicblock-labs)** - MagicBlock ephemeral rollup integration and SDK examples
 
   
 
