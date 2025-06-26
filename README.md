@@ -101,14 +101,59 @@ Essential GitHub repositories for Solana development.
 
 Tools and frameworks for building on Solana.
 
-- **[Anchor Framework](https://www.anchor-lang.com/)** - Rust framework for building Solana programs
-- **[Solana CLI](https://docs.solana.com/cli)** - Command-line interface for interacting with Solana
-- **[Solana Web3.js](https://solana-labs.github.io/solana-web3.js/)** - JavaScript SDK for Solana
-- **[Metaplex SDK](https://github.com/metaplex-foundation/js)** - Tools for building NFT applications on Solana
-- **[Helius](https://helius.dev/)** -Provides a comprehensive suite of developer tools, RPCs, APIs, and SDKs.
-- **[Solana Playground](https://beta.solpg.io/)** - Browser-based IDE for Solana development
-- **[Solana Wallet Adapter](https://github.com/solana-labs/wallet-adapter)** - A collection of components and hooks connecting various Solana wallets to your dApp.
-- **[MagicBlock](https://docs.magicblock.gg/pages/get-started/introduction/why-magicblock?utm_source=website-footer&utm_content=Docs)** - The high-performance engine for real-time applications on Solana
+### Core Development Tools
+
+| Tool | Description |
+|------|-------------|
+| **[Solana CLI](https://docs.solana.com/cli)** | Command-line interface for interacting with Solana networks |
+| **[Anchor Framework](https://www.anchor-lang.com/)** | Rust framework for building Solana programs with IDL generation |
+| Solana Program Library (SPL) | Collection of on-chain programs for common use cases |
+| **[Solana Web3.js](https://solana-labs.github.io/solana-web3.js/)** | JavaScript SDK for building client-side applications |
+| **[Solana Playground](https://beta.solpg.io/)** | Browser-based IDE for writing and testing Solana programs |
+
+### IDEs and Development Environments
+
+| Tool | Description |
+|------|-------------|
+| Solana Studio | Web-based development environment |
+| Seahorse | Python framework for writing Solana programs |
+| Neon Labs | Ethereum Virtual Machine on Solana for Solidity developers |
+
+### Testing and Debugging
+
+| Tool | Description |
+|------|-------------|
+| Solana Test Validator | Local blockchain for testing |
+| Solana Explorer | Blockchain explorer for transaction and account inspection |
+| Metaplex CLI | Tools for NFT and digital asset development |
+
+### Wallet Integration
+
+| Tool | Description |
+|------|-------------|
+| Phantom Wallet SDK | SDK for integrating with Phantom wallet |
+| Solflare Wallet SDK | SDK for integrating with Solflare wallet |
+| **[Solana Wallet Adapter](https://github.com/solana-labs/wallet-adapter)** | Standardized wallet connection library |
+
+### Infrastructure and APIs
+
+| Tool | Description |
+|------|-------------|
+| RPC Providers | Services like Alchemy, QuickNode, **[Helius](https://helius.dev/)** for blockchain data access |
+| **[Metaplex SDK](https://github.com/metaplex-foundation/js)** | NFT and digital asset infrastructure |
+| Serum DEX | Decentralized exchange protocol |
+| Jupiter Aggregator | Swap aggregation protocol |
+| **[MagicBlock](https://docs.magicblock.gg/pages/get-started/introduction/why-magicblock?utm_source=website-footer&utm_content=Docs)** | The high-performance engine for real-time applications on Solana |
+
+### Deployment and Monitoring
+
+| Tool | Description |
+|------|-------------|
+| Solana Beach | Network statistics and validator information |
+| Solscan | Block explorer and analytics |
+| Step Finance | Portfolio tracking and DeFi dashboard |
+
+
 
 
 ## Node Providers
