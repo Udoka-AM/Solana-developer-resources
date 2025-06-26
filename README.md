@@ -105,11 +105,11 @@ Tools and frameworks for building on Solana.
 
 | Tool | Description |
 |------|-------------|
-| **[Solana CLI](https://docs.solana.com/cli)** | Command-line interface for interacting with Solana networks |
-| **[Anchor Framework](https://www.anchor-lang.com/)** | Rust framework for building Solana programs with IDL generation |
+|  | Command-line interface for interacting with Solana networks |
+|  | Rust framework for building Solana programs with IDL generation |
 | Solana Program Library (SPL) | Collection of on-chain programs for common use cases |
-| **[Solana Web3.js](https://solana-labs.github.io/solana-web3.js/)** | JavaScript SDK for building client-side applications |
-| **[Solana Playground](https://beta.solpg.io/)** | Browser-based IDE for writing and testing Solana programs |
+|  | JavaScript SDK for building client-side applications |
+|  | Browser-based IDE for writing and testing Solana programs |
 
 | ### IDEs and Development Environments|
 
@@ -154,6 +154,35 @@ Tools and frameworks for building on Solana.
 | Step Finance | Portfolio tracking and DeFi dashboard |
 
 
+| Tool | Description |
+|------|-------------|
+| **Core Development** ||
+| **[Solana CLI](https://docs.solana.com/cli)** | Command-line interface for interacting with Solana networks |
+| **[Anchor Framework](https://www.anchor-lang.com/)** | Rust framework for building Solana programs with IDL generation |
+| Solana Program Library (SPL) | Collection of on-chain programs for common use cases |
+| **[Solana Web3.js](https://solana-labs.github.io/solana-web3.js/)**| JavaScript SDK for building client-side applications |
+| **[Solana Playground](https://beta.solpg.io/)** | Browser-based IDE for writing and testing Solana programs |
+| **IDEs & Development Environments** |
+| Solana Studio | Web-based development environment |
+| Seahorse | Python framework for writing Solana programs |
+| Neon Labs | Ethereum Virtual Machine on Solana for Solidity developers |
+| **Testing & Debugging** ||
+| Solana Test Validator | Local blockchain for testing |
+| Solana Explorer | Blockchain explorer for transaction and account inspection |
+| Metaplex CLI | Tools for NFT and digital asset development |
+| **Wallet Integration** ||
+| Phantom Wallet SDK | SDK for integrating with Phantom wallet |
+| Solflare Wallet SDK | SDK for integrating with Solflare wallet |
+| Wallet Adapter | Standardized wallet connection library |
+| **Infrastructure & APIs** ||
+| RPC Providers | Services like Alchemy, QuickNode, Helius for blockchain data access |
+| Metaplex Protocol | NFT and digital asset infrastructure |
+| Serum DEX | Decentralized exchange protocol |
+| Jupiter Aggregator | Swap aggregation protocol |
+| **Deployment & Monitoring** ||
+| Solana Beach | Network statistics and validator information |
+| Solscan | Block explorer and analytics |
+| Step Finance | Portfolio tracking and DeFi dashboard |
 
 
 ## Node Providers
