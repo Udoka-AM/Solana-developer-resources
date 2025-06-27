@@ -7,7 +7,7 @@ Whether you're just getting started or looking to deepen your expertise, you'll 
 This is not an exhaustive index of everything in the ecosystem—rather, it's a focused and evolving guide for anyone serious about building on Solana.
 You're also welcome to contribute to the repo if you find a useful opportunity for the community.
 
-![myimage](img/img.jpg?raw=true)
+![myimage](img/res.jpg?raw=true)
 ---
 
 # Table of Contents
