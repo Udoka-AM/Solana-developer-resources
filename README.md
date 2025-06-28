@@ -143,6 +143,7 @@ Tools and frameworks for building on Solana.
 ## Node Providers
 
 RPC node providers are used to connect to the Solana network.
+![myimage](img/14.jpg?raw=true)
 
 - **[Helius](https://helius.xyz/)** - Developer-focused Solana RPC with additional tooling
 - **[QuickNode](https://www.quicknode.com/chains/sol)** - High-performance Solana RPC endpoints
@@ -152,7 +153,7 @@ RPC node providers are used to connect to the Solana network.
   
 
 ## Security on Solana
-![myimage](img/.jpg?raw=true)
+![myimage](img/13.jpg?raw=true)
 ## Hackathons/Grants
 ![myimage](img/7.jpg?raw=true)
 ## Communities/DAOs
