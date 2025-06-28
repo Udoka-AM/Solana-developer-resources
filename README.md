@@ -11,6 +11,7 @@ You're also welcome to contribute to the repo if you find a useful opportunity f
 ---
 
 # Table of Contents
+![myimage](img/9.jpg?raw=true)
 
 - [How Solana Works](#how-solana-works)
 - [Tutorial Docs](#tutorial-docs)
@@ -29,6 +30,7 @@ You're also welcome to contribute to the repo if you find a useful opportunity f
 
 ## How Solana Works
 Understanding the fundamentals of Solana's architecture and consensus mechanism.
+![myimage](img/1.jpg?raw=true)
 
 - **[Solana Architecture Breakdown by Ichigo](https://www.helius.dev/blog/solana-executive-overview)** - A detailed overview of the Solana protocol
 - **[Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)** - The original technical paper explaining Proof of History and Solana's architecture
@@ -40,6 +42,7 @@ Understanding the fundamentals of Solana's architecture and consensus mechanism.
 ## Tutorial Documentation
 
 Step-by-step guides and tutorials for building on Solana.
+![myimage](img/3.jpg?raw=true)
 
 - **[Solana Cookbook](https://solanacookbook.com/)** - Comprehensive collection of code examples and recipes
 - **[Anchor Tutorial](https://www.anchor-lang.com/docs/intro)** - Official Anchor framework documentation and tutorials
@@ -59,6 +62,7 @@ Step-by-step guides and tutorials for building on Solana.
 ## Youtube Channels
 
 Top YouTube channels for Solana development content.
+![myimage](img/2.jpg?raw=true)
 
 - **[Solana Foundation](https://www.youtube.com/c/SolanaLabs)** - Official channel with talks, tutorials, and ecosystem updates
 - **[Solana Bytes](https://www.youtube.com/playlist?list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm)** - Short-form technical content from Solana Labs
