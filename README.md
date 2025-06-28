@@ -106,6 +106,7 @@ Essential GitHub repositories for Solana development.
 ## Development Tools
 
 Tools and frameworks for building on Solana.
+![myimage](img/5.jpg?raw=true)
 
 ### Infrastructure and APIs
 
@@ -151,9 +152,13 @@ RPC node providers are used to connect to the Solana network.
   
 
 ## Security on Solana
+![myimage](img/.jpg?raw=true)
 ## Hackathons/Grants
+![myimage](img/7.jpg?raw=true)
 ## Communities/DAOs
+![myimage](img/6.jpg?raw=true)
 ## Recommended Books
+![myimage](img/4.jpg?raw=true)
 
 
   
