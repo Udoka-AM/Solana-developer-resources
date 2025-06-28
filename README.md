@@ -42,7 +42,7 @@ Understanding the fundamentals of Solana's architecture and consensus mechanism.
 ## Tutorial Documentation
 
 Step-by-step guides and tutorials for building on Solana.
-![myimage](img/3.jpg?raw=true)
+![myimage](img/8.jpg?raw=true)
 
 - **[Solana Cookbook](https://solanacookbook.com/)** - Comprehensive collection of code examples and recipes
 - **[Anchor Tutorial](https://www.anchor-lang.com/docs/intro)** - Official Anchor framework documentation and tutorials
@@ -74,6 +74,7 @@ Top YouTube channels for Solana development content.
 ## Free Online Course Programs
 
 Structured learning programs for Solana development.
+![myimage](img/3.jpg?raw=true)
 
 - **[Solana Foundation Developer Program](https://solana.com/developers)** - Everything solana development from solana foundation engineers
 - **[Solana Foundation Developer Bootcamp](https://www.youtube.com/watch?v=amAq-WHAFs8&list=PLilwLeBwGuK7HN8ZnXpGAD9q6i4syhnVc)** - Full self paced solana developer bootcamp
@@ -89,6 +90,7 @@ Structured learning programs for Solana development.
 ## Github Repositories
 
 Essential GitHub repositories for Solana development.
+![myimage](img/10.jpg?raw=true)
 
 - **[solana-labs/solana](https://github.com/solana-labs/solana)** - Main Solana blockchain implementation
 - **[coral-xyz/anchor](https://github.com/coral-xyz/anchor)** - Anchor framework for Solana smart contracts
