@@ -189,18 +189,19 @@ Active Solana-focused communities for learning and networking.&#x20;
 * [Solana Devs](https://x.com/solana_devs) - News, updates, content, code and job opportunities for Solana developers
 
 ### Recommended Books
-
+_Coming soon - curated list of essential books for Solana development and blockchain understanding._
 ![myimage](../img/4.jpg)
 
-### Contributing
+
+## Contributing
 
 Found a great resource that's missing? Please contribute by:
 
 1. Forking this repository
 2. Adding your resource in the appropriate section
-3. Following the existing format: Title - Brief description
+3. Following the existing format: **Title** - Brief description
 4. Submitting a pull request
 
-### Share some love ⭐
+## Share some love ⭐
 
 If you find this repository helpful, please consider giving it a star ⭐
