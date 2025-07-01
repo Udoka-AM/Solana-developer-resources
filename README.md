@@ -168,12 +168,12 @@ Security organisations/communities, best practices and resources for Solana.
 Funding opportunities and competitions for Solana builders.
 ![myimage](img/7.jpg?raw=true)
 
-[Colosseum](https://www.colosseum.com/) - The world's most competitive online hackathons, where elite crypto builders launch startups on Solana
-[Colosseum Accelerator](https://www.colosseum.com/accelerator/) - For crypto founders to become embedded in the Solana ecosystem
-[Solana Foundation Grants](https://solana.org/grants-funding) - Different grant and funding opportunities within the Solana ecosystem
-[Superteam Grants](https://earn.superteam.fun/grants/) - Quick microgrants (<$10k) to early-stage products 
-[MonkeyDAO Grants](https://form.typeform.com/to/LTPmMZJm?typeform-source=t.co) - Funding and marketing support for Solana projects catering to everyday users
-[Island DAO Grants](https://li4rhd691jg.typeform.com/to/DOPVAt16) - For Solana projects innovating in governance tools, security, tokenisation, and more.
+- [Colosseum](https://www.colosseum.com/) - The world's most competitive online hackathons, where elite crypto builders launch startups on Solana
+- [Colosseum Accelerator](https://www.colosseum.com/accelerator/) - For crypto founders to become embedded in the Solana ecosystem
+- [Solana Foundation Grants](https://solana.org/grants-funding) - Different grant and funding opportunities within the Solana ecosystem
+- [Superteam Grants](https://earn.superteam.fun/grants/) - Quick microgrants (<$10k) to early-stage products
+- [MonkeyDAO Grants](https://form.typeform.com/to/LTPmMZJm?typeform-source=t.co) - Funding and marketing support for Solana projects catering to everyday users
+- [Island DAO Grants](https://li4rhd691jg.typeform.com/to/DOPVAt16) - For Solana projects innovating in governance tools, security, tokenisation, and more.
 
 
 ## Communities/DAOs
