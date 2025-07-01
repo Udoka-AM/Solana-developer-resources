@@ -153,7 +153,17 @@ RPC node providers are used to connect to the Solana network.
   
 
 ## Security on Solana
+Security organisations/communities, best practices and resources for Solana.
 ![myimage](img/13.jpg?raw=true)
+
+### Security Courses
+
+- [Ackee Blockchain Solana Auditors Bootcamp](https://ackee.xyz/solana-auditors-bootcamp)
+- [Ackee Blockchain Solana Auditors Bootcamp 2024](https://www.youtube.com/watch?v=yYWqKRz82Pw&list=PLzUrW5H8-hDdU-pzHjZrgupi5Wis6zWNJ)
+- [Rektoff–– Rust-native security training for engineers, enterprises, and ecosystems](https://www.rektoff.xyz/)
+
+
+
 ## Hackathons/Grants
 ![myimage](img/7.jpg?raw=true)
 ## Communities/DAOs
