@@ -1,6 +1,6 @@
 # Solana Developer Resources
 
-## Solana Developer Resources
+## Solana Developer Resources curated by Udoka, A.M
 
 A curated list of free, high-quality, on-demand resources for developers looking to learn, build, and grow within the Solana ecosystem. This repository is designed to help you understand how Solana works, access top educational content, explore the best tools, and connect with the broader community.
 
