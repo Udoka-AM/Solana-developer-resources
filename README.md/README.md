@@ -17,7 +17,7 @@ This is not an exhaustive index of everything in the ecosystem—rather, it's a 
 * [How Solana Works](./#how-solana-works)
 * [Tutorial Docs](./#tutorial-docs)
 * [Youtube Channels](./#youtube-channels)
-* [Free Online Course Programs](./#free-online-courses)
+* [Free Online Course Programs](./#freeonlinecourses)
 * [Github Repositories](./#github-repositories)
 * [Development Tools](./#development-tools)
 * [Node Providers](./#node-providers)
