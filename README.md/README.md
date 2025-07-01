@@ -22,7 +22,7 @@ This is not an exhaustive index of everything in the ecosystem—rather, it's a 
 * [Development Tools](./#development-tools)
 * [Node Providers](./#node-providers)
 * [Security on Solana](./#solana-security)
-* [Hackathons/Grants]([./#hackathons/grants](https://github.com/Udoka-AM/Solana-developer-resources/tree/main/README.md#hackathonsgrants))
+* [Hackathons/Grants](./#hackathonsgrants)
 * [Landing Jobs](./#landing-jobs)
 * [Get Cracking](./#get-cracking)
 * [Communities/DAOs](./#communities-DAOs)
