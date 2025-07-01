@@ -180,8 +180,8 @@ Funding opportunities and competitions for Solana builders.
 Active Solana-focused communities for learning and networking.
 ![myimage](img/6.jpg?raw=true)
 
-[Superteam](https://superteam.fun/) - This is the best talent pipeline for learning, earning and building in crypto, available in your country
-[Solana Devs](https://x.com/solana_devs) - News, updates, content, code and job opportunities for Solana developers 
+- [Superteam](https://superteam.fun/) - This is the best talent pipeline for learning, earning and building in crypto, available in your country
+- [Solana Devs](https://x.com/solana_devs) - News, updates, content, code and job opportunities for Solana developers 
 
 ## Recommended Books
 ![myimage](img/4.jpg?raw=true)
