@@ -164,7 +164,7 @@ Security organisations and communities, best practices, and resources for Solana
 
 * [Ackee Blockchain Solana Auditors Bootcamp](https://ackee.xyz/solana-auditors-bootcamp)
 * [Ackee Blockchain Solana Auditors Bootcamp 2024](https://www.youtube.com/watch?v=yYWqKRz82Pw\&list=PLzUrW5H8-hDdU-pzHjZrgupi5Wis6zWNJ)
-* [Rektoff–– Rust-native security training for engineers, enterprises, and ecosystems](https://www.rektoff.xyz/)
+* [Rektoff– Rust-native security training for engineers, enterprises, and ecosystems](https://www.rektoff.xyz/)
 
 ### Hackathons/Grants
 
