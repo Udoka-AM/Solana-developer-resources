@@ -156,7 +156,7 @@ RPC node providers are used to connect to the Solana network.&#x20;
 
 ### Security on Solana
 
-Security organisations/communities, best practices and resources for Solana.&#x20;
+Security organisations and communities, best practices, and resources for Solana.&#x20;
 
 <figure><img src="../img/13.jpg" alt=""><figcaption></figcaption></figure>
 
