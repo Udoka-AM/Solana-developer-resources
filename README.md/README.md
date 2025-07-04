@@ -193,9 +193,11 @@ _Coming soon - curated list of essential books for Solana development and blockc
 ![myimage](../img/4.jpg)
 
 ### Landing Solana ecosystem Jobs
-Land solana ecosytem jobs with these platforms
+Land Solana ecosystem jobs with these platforms
 <figure><img src="../img/job.png" alt=""><figcaption></figcaption></figure>
 
+-  [Solana Job Board](https://jobs.solana.com/)
+-  [Superteam Talent](https://talent.superteam.fun/)
 
 ## Contributing
 
