@@ -192,6 +192,9 @@ Active Solana-focused communities for learning and networking.&#x20;
 _Coming soon - curated list of essential books for Solana development and blockchain understanding._
 ![myimage](../img/4.jpg)
 
+### Landing Solana ecosystem Jobs
+
+
 
 ## Contributing
 
