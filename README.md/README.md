@@ -166,7 +166,7 @@ Security organisations and communities, best practices, and resources for Solana
 
 ### Hackathons/Grants
 
-Funding opportunities and competitions for Solana builders.&#x20;
+Major funding opportunities and competitions for Solana builders.&#x20;
 
 <figure><img src="../img/7.jpg" alt=""><figcaption></figcaption></figure>
 
