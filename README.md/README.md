@@ -181,7 +181,7 @@ Funding opportunities and competitions for Solana builders.&#x20;
 
 ### Communities/DAOs
 
-Active Solana-focused communities for learning and networking.&#x20;
+Active Solana communities for learning and networking.&#x20;
 
 <figure><img src="../img/6.jpg" alt=""><figcaption></figcaption></figure>
 
