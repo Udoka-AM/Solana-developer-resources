@@ -198,7 +198,7 @@ Land Solana ecosystem jobs with these platforms
 -  [Superteam Talent](https://talent.superteam.fun/)
 -  [Solana Job Playbook](https://talent.superteam.fun/playbook)
 
-## Contributing
+## You Wanna Contribute
 
 Found a great resource that's missing? Please contribute by:
 
