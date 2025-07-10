@@ -27,7 +27,7 @@ This is not an exhaustive index of everything in the ecosystem—rather, it's a 
 * [Recommended Books](#recommended-books)
 * [Contributing](#contributing)
 
-### How Solana Really Works
+### How Solana Works
 
 Understanding the fundamentals of Solana's architecture and consensus mechanism.&#x20;
 
