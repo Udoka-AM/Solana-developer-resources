@@ -48,17 +48,14 @@ Step-by-Step Guides and Tutorials for Building on Solana.&#x20;
 <figure><img src="../img/8.jpg" alt=""><figcaption></figcaption></figure>
 
 * [**Solana Cookbook**](https://solanacookbook.com/) - Comprehensive collection of code examples and recipes
-* [**Anchor Tutorial**](https://www.anchor-lang.com/docs/intro) - Official Anchor framework documentation and tutorials
+* [**Solana Developer Resources**](https://solana.com/developers) - Designed and Managed by Solana FOundation for Solana developers
+* [**Core Solana Documentation**](https://solana.com/docs) - Core Solana Blockchain documentation
+* [**Solana Client Validator documentation**](https://docs.anza.xyz/) - Core Validator-Client documentation
+* [**Anchor Tutorial**](https://www.anchor-lang.com/docs) - Official Anchor framework documentation and tutorials
 * [**Solana Program Library Guide**](https://spl.solana.com/) - Tutorials for using Solana's standard program library
-* [**Hello World on Solana**](https://github.com/solana-labs/example-helloworld) - Official beginner tutorial for your first Solana program
 * [**Solana Web3.js Tutorial**](https://solanacookbook.com/guides/get-program-accounts.html) - Client-side development with Solana's JavaScript library
-* [Solana Hello World](https://docs.solana.com/developing/helloworld)
-* [Solana Labs Tutorials](https://docs.solana.com/developing)
-* [Solana Core Concepts by Buildspace](https://buildspace.so/solana)
 * [Solana Stack Exchange](https://solana.stackexchange.com/) - Solana stackoverflow
 * [**QuickNode Solana Guides & Tutorials**](https://www.quicknode.com/guides/solana) - Step-by-step tutorials on various Solana development topics.
-* [**Solana Developer Docs**](https://docs.solana.com/) - Main solana developer documentation
-* [**Solana core docs**](https://docs.anza.xyz/) - Core Validator-Client documentation
 * [**Helius Blog**](https://www.helius.dev/blog/) - Everything you need to build on solana
 
 ### Youtube Channels
@@ -82,12 +79,11 @@ Structured learning programs for Solana development.&#x20;
 
 * [**Solana Foundation Developer Program**](https://solana.com/developers) - Everything solana development from solana foundation engineers
 * [**Solana Foundation Developer Bootcamp**](https://www.youtube.com/watch?v=amAq-WHAFs8\&list=PLilwLeBwGuK7HN8ZnXpGAD9q6i4syhnVc) - Full self paced solana developer bootcamp
+* [**Solana Core Developer Program**](https://solana.com/developers/courses) - Comprehensive free course covering Solana fundamentals to advanced topics
 * [**Turbin3, The Solana Talent Engine**](https://turbin3.org/) - Quarterly detailed program for core solana development
-* [**Ackee Blockchain**](https://ackee.xyz/school-of-solana) - Ackee Blockchain School of Solana
-* [**Solana Core Developer Program**](https://www.soldev.app/course) - Comprehensive free course covering Solana fundamentals to advanced topics
+* [**Ackee Blockchain**](https://ackee.xyz/school-of-solana) - Ackee Blockchain School of Solana annual programs
+* [**Ethereum <=> Solana Developer Course**](https://rareskills.io/solana-tutorial) - For eth devs looking to build on Solana
 * [**Buildspace Solana Course**](https://buildspace.so/builds/solana-web3-app) - Project-based learning for building full-stack Solana applications
-* [**Questbook Solana Course**](https://openquest.xyz/tracks/build-on-solana) - Interactive learning path with hands-on exercises
-* [**Solana Summer Camp**](https://www.soldev.app/library) - Seasonal intensive programs for aspiring Solana developers
 * [**Alchemy University Solana Track**](https://university.alchemy.com/) - University-style curriculum for blockchain development including Solana
 
 ### Github Repositories
@@ -98,6 +94,7 @@ Essential GitHub repositories for Solana development.&#x20;
 
 * [**solana-labs/solana**](https://github.com/solana-labs/solana) - Main Solana blockchain implementation
 * [**coral-xyz/anchor**](https://github.com/coral-xyz/anchor) - Anchor framework for Solana smart contracts
+* [**Hello World on Solana**](https://github.com/solana-labs/example-helloworld) - Official beginner tutorial for your first Solana program
 * [**solana-labs/solana-program-library**](https://github.com/solana-labs/solana-program-library) - Collection of standard Solana programs
 * [**solana-developers/program-examples**](https://github.com/solana-developers/program-examples) - Collection of example programs and dApps
 * [**Andrea**](https://github.com/ASCorreia) - one of the most cracked guy building on solana
@@ -190,6 +187,7 @@ Active Solana communities for learning and networking.&#x20;
 ### Recommended Books
 _Coming soon - curated list of essential books for Solana development and blockchain understanding._
 ![myimage](../img/4.jpg)
+
 
 ### Landing Solana ecosystem Jobs
 Land Solana ecosystem jobs with these platforms
