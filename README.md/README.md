@@ -4,7 +4,7 @@
 
 A curated list of free, high-quality, on-demand resources for developers looking to learn, build, and grow within the Solana ecosystem. This repository is designed to help you understand how Solana works, access top educational content, explore the best tools, and connect with the broader community.
 
-Whether you're just getting started or looking to deepen your expertise, you'll find helpful tutorials, documentation, dev tools, funding opportunities, job boards, and more. The goal is not to overwhelm but to give you a practical, well-organised starting point for getting cracking with Solana development.
+Whether you're just getting started or looking to deepen your expertise, you'll find helpful tutorials, documentation, dev tools, funding opportunities, job boards, and more. The goal is not to overwhelm, but to provide you with a practical, well-organised starting point for getting started with Solana development.
 
 This is not an exhaustive index of everything in the ecosystem—rather, it's a focused and evolving guide for anyone serious about building on Solana. You're also welcome to contribute to the repo if you find a useful opportunity for the community.
 
@@ -184,6 +184,14 @@ Active Solana communities for learning and networking.&#x20;
 * [Superteam](https://superteam.fun/) - This is the best talent pipeline for learning, earning and building in crypto, available in your country
 * [Solana Devs](https://x.com/solana_devs) - News, updates, content, code and job opportunities for Solana developers
 
+### Get Cracking
+Get started on some exercise-based Solana development process to get your hands dirty with code.
+
+* [**Rust Undead**](https://www.rustundead.fun/) - Theory meets practice. Master Solana development from the ground up through engaging, interactive gameplay.
+* [**Questbook Solana Course**](https://openquest.xyz/tracks/build-on-solana) - Interactive learning path with hands-on exercises
+
+
+  
 ### Recommended Books
 _Coming soon - curated list of essential books for Solana development and blockchain understanding._
 ![myimage](../img/4.jpg)
