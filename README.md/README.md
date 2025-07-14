@@ -83,7 +83,7 @@ Structured learning programs for Solana development.&#x20;
 * [**Turbin3, The Solana Talent Engine**](https://turbin3.org/) - Quarterly detailed program for core solana development
 * [**Ackee Blockchain**](https://ackee.xyz/school-of-solana) - Ackee Blockchain School of Solana annual programs
 * [**Ethereum <=> Solana Developer Course**](https://rareskills.io/solana-tutorial) - For eth devs looking to build on Solana
-* [**Rust Solana Bootcamp**](https://bootcamps.encode.club/bootcamp/solana-rust-bootcamp) - Learn Solana blockchain development with Rust programming language.
+* [**Encode Rust Solana Bootcamp**](https://bootcamps.encode.club/bootcamp/solana-rust-bootcamp) - Learn Solana blockchain development with Rust programming language.
 
 
 ### Github Repositories
