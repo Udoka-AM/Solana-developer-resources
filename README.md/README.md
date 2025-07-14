@@ -181,8 +181,9 @@ Active Solana communities for learning and networking.&#x20;
 
 <figure><img src="../img/6.jpg" alt=""><figcaption></figcaption></figure>
 
-* [Superteam](https://superteam.fun/) - This is the best talent pipeline for learning, earning and building in crypto, available in your country
-* [Solana Devs](https://x.com/solana_devs) - News, updates, content, code and job opportunities for Solana developers
+* [**Superteam**](https://superteam.fun/) - This is the best talent pipeline for learning, earning and building in crypto, available in your country
+* [**Solana Devs**](https://x.com/solana_devs) - News, updates, content, code and job opportunities for Solana developers
+* [**MagicBlock**](https://discord.gg/AF4VzDJ9HJ) - The Real time developer community on Solana
 
 ### Get Cracking
 Get started on some exercise-based Solana development process to get your hands dirty with code.
