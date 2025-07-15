@@ -208,7 +208,7 @@ Land Solana ecosystem jobs with these platforms
 
 ## You Wanna Contribute
 
-Found a great resource that's missing? Please contribute by:
+Is there a great resource that's missing? Please contribute by:
 
 1. Forking this repository
 2. Adding your resource in the appropriate section
