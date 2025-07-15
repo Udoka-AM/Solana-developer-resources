@@ -186,7 +186,7 @@ Active Solana communities for learning and networking.&#x20;
 * [**MagicBlock**](https://discord.gg/AF4VzDJ9HJ) - The Real time developer community on Solana
 
 ### Get Cracking
-Get started on some exercise-based Solana development process to get your hands dirty with code.
+Get started on some exercise-based Solana development programs to get your hands dirty with code.
 
 * [**Rust Undead**](https://www.rustundead.fun/) - Theory meets practice. Master Solana development from the ground up through engaging, interactive gameplay.
 * [**Questbook Solana Course**](https://openquest.xyz/tracks/build-on-solana) - Interactive learning path with hands-on exercises
