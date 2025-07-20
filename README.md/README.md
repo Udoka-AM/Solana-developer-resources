@@ -217,4 +217,4 @@ Is there a great resource that's missing? Please contribute by:
 
 ## Share some love ⭐
 
-If you find this repository helpful, please consider giving it a star ⭐
+Find this repository helpful? Please consider giving it a star ⭐
