@@ -41,13 +41,13 @@ Understanding the fundamentals of Solana's architecture and consensus mechanism.
 * [**Solana Validator Economics**](https://docs.solana.com/economics_overview) - How staking and rewards work on Solana
 * [**Solana Handbook**](https://ackee.xyz/solana/book/latest/) -Ackee Blockchain's Solana program Handbook
 
-### Tutorial Documentation
+### Tutorial Documentation 
 
 Step-by-Step Guides and Tutorials for Building on Solana.&#x20;
 
 <figure><img src="../img/8.jpg" alt=""><figcaption></figcaption></figure>
 
-* [**Solana Cookbook**](https://solanacookbook.com/) - Comprehensive collection of code examples and recipes
+* [**Solana Cookbook**](https://solanacookbook.com/) - Comprehensive collection of code examples and recipes 
 * [**Solana Developer Resources**](https://solana.com/developers) - Designed and Managed by Solana FOundation for Solana developers
 * [**Core Solana Documentation**](https://solana.com/docs) - Core Solana Blockchain documentation
 * [**Solana Client Validator documentation**](https://docs.anza.xyz/) - Core Validator-Client documentation
